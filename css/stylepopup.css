@@ -1,0 +1,82 @@
+/* Add styles from the previous examples */
+
+        /* Style for the card genre */
+        .card-genre {
+            font-size: 14px;
+            color: #777;
+        }
+      
+              /* Add styles from the previous example */
+
+        .tags{
+            
+            
+            margin-left: 35%;
+            margin-bottom: 0px;
+            padding: 10px;
+        }
+        /* Style for the search input */
+        #searchInput {
+            position: absolute;
+            margin-left: 30%;
+            margin-bottom: 10px;
+            padding: 10px;
+            width: 30%;
+            box-sizing: border-box;
+        }
+
+        .Refreshbtn{
+            position: absolute;
+            margin-left: 61%;
+            bottom: 82%;
+        }
+
+        .hed{
+            color:darksalmon;
+            margin-top: 50px;
+            font-size:10px ;
+            margin-left: 20%;
+        }
+
+      
+
+        /* Style for pagination buttons */
+        .pagination {
+            display: flex;
+            justify-content: center;
+            margin-top: 20px;
+        }
+
+        .pagination button {
+            padding: 10px;
+            margin: 0 5px;
+            cursor: pointer;
+        }
+              /* Style for the horizontal list */
+        #navigation ul {
+            list-style-type: none;
+            margin: 0;
+            
+            padding: 0;
+            
+        }
+
+        /* Style for the list items (links) */
+        #navigation ul li {
+            display: inline;
+            margin-right: 10px;
+        }
+
+        /* Style for the links */
+        #navigation ul li a {
+            text-decoration: none;
+            font-weight: bold;
+            padding: 5px 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            color: #333;
+        }
+
+
+
+  
